@@ -4,8 +4,17 @@
 ## 01 - Fundamentos de JavaScript
 
 - variables-and-data-types.js
+
 _Declaración de variables usando var, let y const, y comprensión de tipos primitivos y objetos._
+
 - control-flow.js
+
 _Uso de instrucciones condicionales y bucles (if, else, switch, for, while)._
+
 - functions.js
+
 _Declaración y uso de funciones en JavaScript, incluyendo funciones anónimas y de flecha._
+
+- scope-and-hoisting.js
+
+_Cómo funcionan los ámbitos léxicos y el comportamiento de elevación de variables en JavaScript._
