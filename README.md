@@ -22,3 +22,7 @@ _Cómo funcionan los ámbitos léxicos y el comportamiento de elevación de vari
 - closures.js
 
 _Funciones que capturan el estado de su entorno de creación, permitiendo acceso a variables externas incluso después de finalizar su contexto original._
+
+- this-context.js
+
+_Cómo funciona el contexto de ejecución y cómo cambiarlo en JavaScript._
