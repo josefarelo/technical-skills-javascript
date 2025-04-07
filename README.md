@@ -18,3 +18,7 @@ _Declaración y uso de funciones en JavaScript, incluyendo funciones anónimas y
 - scope-and-hoisting.js
 
 _Cómo funcionan los ámbitos léxicos y el comportamiento de elevación de variables en JavaScript._
+
+- closures.js
+
+_Funciones que capturan el estado de su entorno de creación, permitiendo acceso a variables externas incluso después de finalizar su contexto original._
