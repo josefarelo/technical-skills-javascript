@@ -26,3 +26,7 @@ _Funciones que capturan el estado de su entorno de creación, permitiendo acceso
 - this-context.js
 
 _Cómo funciona el contexto de ejecución y cómo cambiarlo en JavaScript._
+
+- events.js
+
+_Manejo de eventos en JavaScript, incluyendo el registro de eventos y la propagación._

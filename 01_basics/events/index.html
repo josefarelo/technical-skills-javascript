@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="UTF-8" />
+        <title>Manejo de Eventos</title>
+        <style>
+            .abuelo, .padre, .hijo {
+            padding: 20px;
+            margin: 10px;
+            border: 2px solid black;
+            }
+
+            .abuelo { background-color: #f17127; }
+            .padre { background-color: #07a4d8; }
+            .hijo { background-color: #49f749; }
+
+            .myButton {
+                margin: 0 20px;
+                padding: 5px;
+                background-color: #d807a4;
+                border: none;
+                font-weight: 600;
+                color: #ffffff;
+                cursor: pointer;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="abuelo">
+            Abuelo
+            <div class="padre">
+                Padre
+                <div class="hijo">
+                    Hijo
+                    <button id="myButton" class="myButton">Haz clic aquí</button>
+                </div>
+            </div>
+        </div>
+
+        <script src="events.js"></script>
+    </body>
+</html>
