@@ -30,3 +30,7 @@ _Cómo funciona el contexto de ejecución y cómo cambiarlo en JavaScript._
 - events.js
 
 _Manejo de eventos en JavaScript, incluyendo el registro de eventos y la propagación._
+
+- error-handling.js
+
+_Captura y manejo de errores usando try, catch y finally._
