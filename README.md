@@ -49,3 +49,7 @@ _Cómo funciona la herencia basada en prototipos en JavaScript._
 - classes-and-modern-syntax.js
 
 _Uso de las clases en JavaScript moderno con las palabras clave class, extends y super._
+
+- encapsulation-inheritance-polymorphism.js
+
+_Principios fundamentales de la programación orientada a objetos aplicados en JavaScript._
