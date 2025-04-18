@@ -45,3 +45,7 @@ _Creación y manipulación de objetos, así como el acceso a sus propiedades._
 - prototypes-inheritance.js
 
 _Cómo funciona la herencia basada en prototipos en JavaScript._
+
+- classes-and-modern-syntax.js
+
+_Uso de las clases en JavaScript moderno con las palabras clave class, extends y super._
