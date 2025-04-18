@@ -41,3 +41,7 @@ _Captura y manejo de errores usando try, catch y finally._
 - objects-and-properties.js
 
 _Creación y manipulación de objetos, así como el acceso a sus propiedades._
+
+- prototypes-inheritance.js
+
+_Cómo funciona la herencia basada en prototipos en JavaScript._
