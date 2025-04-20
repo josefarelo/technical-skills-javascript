@@ -53,3 +53,7 @@ _Uso de las clases en JavaScript moderno con las palabras clave class, extends y
 - encapsulation-inheritance-polymorphism.js
 
 _Principios fundamentales de la programación orientada a objetos aplicados en JavaScript._
+
+- factory-functions.js
+
+_Funciones que retornan nuevos objetos personalizados, permitiendo flexibilidad en la creación de instancias._
