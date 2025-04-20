@@ -57,3 +57,7 @@ _Principios fundamentales de la programación orientada a objetos aplicados en J
 - factory-functions.js
 
 _Funciones que retornan nuevos objetos personalizados, permitiendo flexibilidad en la creación de instancias._
+
+- object-composition.js
+
+_Construcción de objetos complejos a partir de otros más simples, en lugar de usar herencia._
