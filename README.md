@@ -72,3 +72,7 @@ _Funciones que, dado un mismo conjunto de entradas, siempre devuelven la misma s
 - immutability.js
 
 _Principio de no modificar directamente los datos existentes, sino crear nuevas estructuras de datos._
+
+- higher-order-functions.js
+
+_Funciones que aceptan otras funciones como argumentos o las retornan como resultados._
