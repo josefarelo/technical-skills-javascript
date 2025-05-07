@@ -61,3 +61,10 @@ _Funciones que retornan nuevos objetos personalizados, permitiendo flexibilidad 
 - object-composition.js
 
 _Construcción de objetos complejos a partir de otros más simples, en lugar de usar herencia._
+
+
+## 03 - Conceptos de programación funcional
+
+- pure-functions.js
+
+_Funciones que, dado un mismo conjunto de entradas, siempre devuelven la misma salida sin producir efectos secundarios._
