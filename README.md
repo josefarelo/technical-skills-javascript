@@ -68,3 +68,7 @@ _Construcción de objetos complejos a partir de otros más simples, en lugar de 
 - pure-functions.js
 
 _Funciones que, dado un mismo conjunto de entradas, siempre devuelven la misma salida sin producir efectos secundarios._
+
+- immutability.js
+
+_Principio de no modificar directamente los datos existentes, sino crear nuevas estructuras de datos._
