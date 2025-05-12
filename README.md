@@ -76,3 +76,7 @@ _Principio de no modificar directamente los datos existentes, sino crear nuevas 
 - higher-order-functions.js
 
 _Funciones que aceptan otras funciones como argumentos o las retornan como resultados._
+
+- currying.js
+
+_Transformación de una función que toma múltiples argumentos en una serie de funciones que toman un solo argumento._
