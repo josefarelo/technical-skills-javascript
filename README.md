@@ -80,3 +80,7 @@ _Funciones que aceptan otras funciones como argumentos o las retornan como resul
 - currying.js
 
 _Transformación de una función que toma múltiples argumentos en una serie de funciones que toman un solo argumento._
+
+- function-composition.js
+
+_Técnica que permite encadenar funciones pequeñas en una sola función compleja._
