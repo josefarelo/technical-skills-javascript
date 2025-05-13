@@ -40,8 +40,8 @@ function Box(value) {
 
 // Ejemplo
 const resultado = Box(3)
-.map(x => x + 2)    // 3 + 2 = 5
-.map(x => x * 3)    // 5 * 3 = 15
-.fold(x => x);      // Extrae el 15
+    .map(x => x + 2)    // 3 + 2 = 5
+    .map(x => x * 3)    // 5 * 3 = 15
+    .fold(x => x);      // Extrae el 15
 
 console.log(resultado); // Muestra 15

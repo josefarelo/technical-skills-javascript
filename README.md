@@ -88,3 +88,7 @@ _Técnica que permite encadenar funciones pequeñas en una sola función complej
 - functors-and-categories.js
 
 _Estructuras que permiten mapear funciones sobre valores envueltos o estructurados._
+
+- monads.js
+
+_Patrón que permite encadenar operaciones, manejando contextos como la asincronía o el manejo de errores._
