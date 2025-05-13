@@ -84,3 +84,7 @@ _Transformación de una función que toma múltiples argumentos en una serie de 
 - function-composition.js
 
 _Técnica que permite encadenar funciones pequeñas en una sola función compleja._
+
+- functors-and-categories.js
+
+_Estructuras que permiten mapear funciones sobre valores envueltos o estructurados._
