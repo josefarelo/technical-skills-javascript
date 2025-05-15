@@ -100,3 +100,10 @@ _Herramientas para acceder y modificar estructuras de datos inmutables de forma 
 - transducers.js
 
 _Funciones que transforman otras funciones de transformación, permitiendo operaciones eficientes sobre estructuras de datos._
+
+
+## 04 - Estructuras de Datos y Algoritmos
+
+- arrays-objects-sets-and-maps.js
+
+_Uso de estructuras de datos como arrays, objetos, sets y maps para almacenar y manipular información._
