@@ -92,3 +92,11 @@ _Estructuras que permiten mapear funciones sobre valores envueltos o estructurad
 - monads.js
 
 _Patrón que permite encadenar operaciones, manejando contextos como la asincronía o el manejo de errores._
+
+- lenses.js
+
+_Herramientas para acceder y modificar estructuras de datos inmutables de forma segura._
+
+- transducers.js
+
+_Funciones que transforman otras funciones de transformación, permitiendo operaciones eficientes sobre estructuras de datos._
