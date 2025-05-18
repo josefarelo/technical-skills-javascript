@@ -107,3 +107,7 @@ _Funciones que transforman otras funciones de transformación, permitiendo opera
 - arrays-objects-sets-and-maps.js
 
 _Uso de estructuras de datos como arrays, objetos, sets y maps para almacenar y manipular información._
+
+- stacks-and-queues.js
+
+_Estructuras de datos lineales que permiten operaciones de inserción y eliminación en un orden específico (LIFO y FIFO)._
