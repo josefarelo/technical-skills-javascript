@@ -111,3 +111,7 @@ _Uso de estructuras de datos como arrays, objetos, sets y maps para almacenar y 
 - stacks-and-queues.js
 
 _Estructuras de datos lineales que permiten operaciones de inserción y eliminación en un orden específico (LIFO y FIFO)._
+
+- linked-lists.js
+
+_Estructura de datos donde cada elemento apunta al siguiente, permitiendo inserciones y eliminaciones eficientes._
