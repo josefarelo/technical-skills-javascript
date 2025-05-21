@@ -115,3 +115,7 @@ _Estructuras de datos lineales que permiten operaciones de inserción y eliminac
 - linked-lists.js
 
 _Estructura de datos donde cada elemento apunta al siguiente, permitiendo inserciones y eliminaciones eficientes._
+
+- recursion.js
+
+_Técnica donde una función se llama a sí misma para resolver problemas complejos._
