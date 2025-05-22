@@ -119,3 +119,7 @@ _Estructura de datos donde cada elemento apunta al siguiente, permitiendo inserc
 - recursion.js
 
 _Técnica donde una función se llama a sí misma para resolver problemas complejos._
+
+- array-operations.js
+
+_Funciones de orden superior para transformar, filtrar y reducir arrays en JavaScript._
