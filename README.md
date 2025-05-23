@@ -123,3 +123,7 @@ _Técnica donde una función se llama a sí misma para resolver problemas comple
 - array-operations.js
 
 _Funciones de orden superior para transformar, filtrar y reducir arrays en JavaScript._
+
+- sorting-algorithms.js
+
+_Implementación de algoritmos de ordenamiento como bubble sort, quicksort y merge sort._
