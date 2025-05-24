@@ -127,3 +127,7 @@ _Funciones de orden superior para transformar, filtrar y reducir arrays en JavaS
 - sorting-algorithms.js
 
 _Implementación de algoritmos de ordenamiento como bubble sort, quicksort y merge sort._
+
+- search-algorithms.js
+
+_Algoritmos de búsqueda como búsqueda lineal y búsqueda binaria para encontrar elementos en estructuras de datos._
