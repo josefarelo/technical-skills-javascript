@@ -131,3 +131,7 @@ _Implementación de algoritmos de ordenamiento como bubble sort, quicksort y mer
 - search-algorithms.js
 
 _Algoritmos de búsqueda como búsqueda lineal y búsqueda binaria para encontrar elementos en estructuras de datos._
+
+- abstract-data-types.js
+
+_Tipos de datos abstractos como pilas, colas y listas que definen operaciones sin especificar su implementación concreta._
