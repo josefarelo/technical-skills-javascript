@@ -135,3 +135,10 @@ _Algoritmos de búsqueda como búsqueda lineal y búsqueda binaria para encontra
 - abstract-data-types.js
 
 _Tipos de datos abstractos como pilas, colas y listas que definen operaciones sin especificar su implementación concreta._
+
+
+## 05 - Programación Asíncrona
+
+- callbacks.js
+
+_Funciones que se ejecutan después de completar una operación asíncrona, permitiendo la continuación de un flujo de ejecución._
