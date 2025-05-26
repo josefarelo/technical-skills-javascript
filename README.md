@@ -146,3 +146,7 @@ _Funciones que se ejecutan después de completar una operación asíncrona, perm
 - promises.js
 
 _Objeto que representa la terminación o el fracaso eventual de una operación asíncrona._
+
+- async-await.js
+
+_Sintaxis que simplifica el manejo de operaciones asíncronas, haciendo que el código sea más legible y fácil de entender._
