@@ -150,3 +150,7 @@ _Objeto que representa la terminación o el fracaso eventual de una operación a
 - async-await.js
 
 _Sintaxis que simplifica el manejo de operaciones asíncronas, haciendo que el código sea más legible y fácil de entender._
+
+- asynchronous-error-handling.js
+
+_Manejo de errores en operaciones asíncronas utilizando bloques try, catch y finally._
