@@ -154,3 +154,7 @@ _Sintaxis que simplifica el manejo de operaciones asíncronas, haciendo que el c
 - asynchronous-error-handling.js
 
 _Manejo de errores en operaciones asíncronas utilizando bloques try, catch y finally._
+
+- event-loop.js
+
+_Mecanismo que permite que JavaScript maneje múltiples operaciones simultáneamente a través de un ciclo de eventos._
