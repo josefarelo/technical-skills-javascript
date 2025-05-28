@@ -158,3 +158,7 @@ _Manejo de errores en operaciones asíncronas utilizando bloques try, catch y fi
 - event-loop.js
 
 _Mecanismo que permite que JavaScript maneje múltiples operaciones simultáneamente a través de un ciclo de eventos._
+
+- promise-lifecycle.js
+
+_Etapas de una promesa en JavaScript: pendiente, cumplida o rechazada._
