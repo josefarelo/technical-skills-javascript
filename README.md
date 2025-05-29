@@ -169,3 +169,7 @@ _Etapas de una promesa en JavaScript: pendiente, cumplida o rechazada._
 - element-of-javascript-style.js
 
 _Conjunto de convenciones y estilos recomendados para escribir código JavaScript limpio y legible._
+
+- solid-principles.js
+
+_Conjunto de principios para escribir código que sea mantenible, escalable y fácil de entender._
