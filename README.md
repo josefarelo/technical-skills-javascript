@@ -162,3 +162,10 @@ _Mecanismo que permite que JavaScript maneje múltiples operaciones simultáneam
 - promise-lifecycle.js
 
 _Etapas de una promesa en JavaScript: pendiente, cumplida o rechazada._
+
+
+## 05 - Principios y Buenas Prácticas
+
+- element-of-javascript-style.js
+
+_Conjunto de convenciones y estilos recomendados para escribir código JavaScript limpio y legible._
