@@ -181,3 +181,7 @@ _Principio que recomienda evitar la duplicación de código para mejorar la mant
 - kiss.js
 
 _Principio que sugiere mantener el código simple y directo, evitando la complejidad innecesaria._
+
+- yagni.js
+
+_Principio que recomienda no implementar características innecesarias hasta que sean realmente necesarias._
