@@ -177,3 +177,7 @@ _Conjunto de principios para escribir código que sea mantenible, escalable y f�
 - dry.js
 
 _Principio que recomienda evitar la duplicación de código para mejorar la mantenibilidad._
+
+- kiss.js
+
+_Principio que sugiere mantener el código simple y directo, evitando la complejidad innecesaria._
