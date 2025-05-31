@@ -173,3 +173,7 @@ _Conjunto de convenciones y estilos recomendados para escribir código JavaScrip
 - solid-principles.js
 
 _Conjunto de principios para escribir código que sea mantenible, escalable y fácil de entender._
+
+- dry.js
+
+_Principio que recomienda evitar la duplicación de código para mejorar la mantenibilidad._
