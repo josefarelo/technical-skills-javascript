@@ -192,3 +192,7 @@ _Principio que recomienda no implementar características innecesarias hasta que
 - unit-testing
 
 _Escritura de pruebas automatizadas para verificar funcionalidades específicas de manera aislada._
+
+- integration-testing.js
+
+_Pruebas que evalúan cómo interactúan diferentes componentes del sistema entre sí._
