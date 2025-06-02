@@ -164,7 +164,7 @@ _Mecanismo que permite que JavaScript maneje múltiples operaciones simultáneam
 _Etapas de una promesa en JavaScript: pendiente, cumplida o rechazada._
 
 
-## 05 - Principios y Buenas Prácticas
+## 06 - Principios y Buenas Prácticas
 
 - element-of-javascript-style.js
 
@@ -185,3 +185,10 @@ _Principio que sugiere mantener el código simple y directo, evitando la complej
 - yagni.js
 
 _Principio que recomienda no implementar características innecesarias hasta que sean realmente necesarias._
+
+
+## 07 - Pruebas Automatizadas
+
+- unit-testing
+
+_Escritura de pruebas automatizadas para verificar funcionalidades específicas de manera aislada._
