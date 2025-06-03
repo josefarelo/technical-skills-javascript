@@ -196,3 +196,7 @@ _Escritura de pruebas automatizadas para verificar funcionalidades específicas 
 - integration-testing.js
 
 _Pruebas que evalúan cómo interactúan diferentes componentes del sistema entre sí._
+
+- end-to-end-testing.js
+
+_Pruebas que simulan el flujo completo de una aplicación para asegurar su correcto funcionamiento desde el principio hasta el fin._
