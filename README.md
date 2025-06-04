@@ -204,3 +204,7 @@ _Pruebas que simulan el flujo completo de una aplicación para asegurar su corre
 - mocking-is-a-code-smell.js
 
 _Evitar el uso excesivo de mocks en las pruebas, ya que puede ser un indicador de un diseño débil._
+
+- code-coverage.js
+
+_Métrica que indica qué porcentaje del código ha sido ejecutado por las pruebas automatizadas._
