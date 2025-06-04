@@ -200,3 +200,7 @@ _Pruebas que evalúan cómo interactúan diferentes componentes del sistema entr
 - end-to-end-testing.js
 
 _Pruebas que simulan el flujo completo de una aplicación para asegurar su correcto funcionamiento desde el principio hasta el fin._
+
+- mocking-is-a-code-smell.js
+
+_Evitar el uso excesivo de mocks en las pruebas, ya que puede ser un indicador de un diseño débil._
