@@ -205,6 +205,13 @@ _Pruebas que simulan el flujo completo de una aplicación para asegurar su corre
 
 _Evitar el uso excesivo de mocks en las pruebas, ya que puede ser un indicador de un diseño débil._
 
-- code-coverage.js
+- code-coverage
 
 _Métrica que indica qué porcentaje del código ha sido ejecutado por las pruebas automatizadas._
+
+
+## 08 - Herramientas del Ecosistema Moderno
+
+- npm
+
+_Herramienta para gestionar paquetes y dependencias en proyectos JavaScript._
