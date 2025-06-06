@@ -215,3 +215,7 @@ _Métrica que indica qué porcentaje del código ha sido ejecutado por las prueb
 - npm
 
 _Herramienta para gestionar paquetes y dependencias en proyectos JavaScript._
+
+- babel-and-transpilation.js
+
+_Uso de Babel para convertir código moderno de JavaScript en una versión compatible con navegadores más antiguos._
