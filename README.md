@@ -219,3 +219,7 @@ _Herramienta para gestionar paquetes y dependencias en proyectos JavaScript._
 - babel-and-transpilation.js
 
 _Uso de Babel para convertir código moderno de JavaScript en una versión compatible con navegadores más antiguos._
+
+- webpack-and-modern-bundlers
+
+_Herramientas para empaquetar y optimizar archivos de código JavaScript para su uso en producción._
