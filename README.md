@@ -227,3 +227,10 @@ _Herramientas para empaquetar y optimizar archivos de código JavaScript para su
 - eslint-and-code-formatting.js
 
 _Herramientas para mantener un estilo de código consistente y detectar errores potenciales en JavaScript._
+
+
+## 09 - Interacción con el Navegador y APIs Web
+
+- dom-manipulation
+
+_Acceso y modificación de elementos HTML usando JavaScript para actualizar dinámicamente el contenido de una página._
