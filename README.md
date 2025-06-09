@@ -223,3 +223,7 @@ _Uso de Babel para convertir código moderno de JavaScript en una versión compa
 - webpack-and-modern-bundlers
 
 _Herramientas para empaquetar y optimizar archivos de código JavaScript para su uso en producción._
+
+- eslint-and-code-formatting.js
+
+_Herramientas para mantener un estilo de código consistente y detectar errores potenciales en JavaScript._
