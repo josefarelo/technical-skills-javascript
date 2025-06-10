@@ -234,3 +234,7 @@ _Herramientas para mantener un estilo de código consistente y detectar errores 
 - dom-manipulation
 
 _Acceso y modificación de elementos HTML usando JavaScript para actualizar dinámicamente el contenido de una página._
+
+- dom-events.html
+
+_Gestión de eventos en el Document Object Model para interactuar con elementos de la página web._

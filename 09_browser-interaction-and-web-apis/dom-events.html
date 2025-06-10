@@ -1,0 +1,43 @@
+<input type="text" id="nombre" placeholder="Tu nombre">
+<button id="saludarBtn">Saludar</button>
+<p id="saludo"></p>
+
+<script>
+    // Esperar a que el DOM esté cargado
+    document.addEventListener('DOMContentLoaded', function() {
+        // Obtener elementos del DOM
+        const inputNombre = document.getElementById('nombre');
+        const botonSaludar = document.getElementById('saludarBtn');
+        const parrafoSaludo = document.getElementById('saludo');
+        
+        // Función para saludar
+        function saludarUsuario() {
+            const nombre = inputNombre.value.trim();
+            
+            if (nombre === '') {
+                parrafoSaludo.textContent = 'Por favor, escribe tu nombre';
+                parrafoSaludo.style.color = 'red';
+            } else {
+                parrafoSaludo.textContent = `¡Hola, ${nombre}! Bienvenido/a`;
+                parrafoSaludo.style.color = 'green';
+            }
+        }
+        
+        // Evento click en el botón
+        botonSaludar.addEventListener('click', saludarUsuario);
+        
+        // Saludar al presionar Enter en el input
+        inputNombre.addEventListener('keypress', function(e) {
+            if (e.key === 'Enter') {
+                saludarUsuario();
+            }
+        });
+        
+        // Limpiar el mensaje cuando se empieza a escribir
+        inputNombre.addEventListener('input', function() {
+            if (parrafoSaludo.textContent !== '') {
+                parrafoSaludo.textContent = '';
+            }
+        });
+    });
+</script>
