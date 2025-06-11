@@ -238,3 +238,7 @@ _Acceso y modificación de elementos HTML usando JavaScript para actualizar din�
 - dom-events.html
 
 _Gestión de eventos en el Document Object Model para interactuar con elementos de la página web._
+
+- fetch-api-and-http-requests.js
+
+_Realización de solicitudes HTTP para comunicarse con servidores y obtener o enviar datos._
