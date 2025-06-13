@@ -242,3 +242,7 @@ _Gestión de eventos en el Document Object Model para interactuar con elementos 
 - fetch-api-and-http-requests.js
 
 _Realización de solicitudes HTTP para comunicarse con servidores y obtener o enviar datos._
+
+- web-apis.js
+
+_Uso de APIs nativas del navegador, como localStorage, sessionStorage y Geolocation._
