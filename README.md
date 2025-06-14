@@ -246,3 +246,10 @@ _Realización de solicitudes HTTP para comunicarse con servidores y obtener o en
 - web-apis.js
 
 _Uso de APIs nativas del navegador, como localStorage, sessionStorage y Geolocation._
+
+
+## 10 - Arquitectura y Patrones
+
+- design-patterns.js
+
+_Implementación de patrones de diseño comunes como Factory, Singleton, Observer y otros en JavaScript._
