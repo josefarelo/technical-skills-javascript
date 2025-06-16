@@ -253,3 +253,7 @@ _Uso de APIs nativas del navegador, como localStorage, sessionStorage y Geolocat
 - design-patterns.js
 
 _Implementación de patrones de diseño comunes como Factory, Singleton, Observer y otros en JavaScript._
+
+- dependency-management
+
+_Gestión eficiente de dependencias en proyectos JavaScript utilizando herramientas como NPM o Yarn._

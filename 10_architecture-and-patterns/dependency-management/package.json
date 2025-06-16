@@ -1,0 +1,20 @@
+{
+    "name": "dependency-management-demo",
+    "version": "1.0.0",
+    "description": "Proyecto demo para aprender gestión de dependencias",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "demo",
+        "dependencies",
+        "javascript"
+    ],
+    "author": "Junior Dev",
+    "license": "MIT",
+    "dependencies": {
+        "axios": "^1.6.7"
+    }
+}
