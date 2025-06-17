@@ -261,3 +261,7 @@ _Gestión eficiente de dependencias en proyectos JavaScript utilizando herramien
 - clean-architecture-principles
 
 _Principios de arquitectura que permiten escribir código modular, mantenible y fácil de escalar._
+
+- microservices
+
+_Uso de microservicios para dividir una aplicación en servicios pequeños e independientes usando Node.js._
