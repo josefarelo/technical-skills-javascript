@@ -257,3 +257,7 @@ _Implementación de patrones de diseño comunes como Factory, Singleton, Observe
 - dependency-management
 
 _Gestión eficiente de dependencias en proyectos JavaScript utilizando herramientas como NPM o Yarn._
+
+- clean-architecture-principles
+
+_Principios de arquitectura que permiten escribir código modular, mantenible y fácil de escalar._
