@@ -265,3 +265,7 @@ _Principios de arquitectura que permiten escribir código modular, mantenible y 
 - microservices
 
 _Uso de microservicios para dividir una aplicación en servicios pequeños e independientes usando Node.js._
+
+- serverless-architecture
+
+_Implementación de funciones serverless usando JavaScript en plataformas como AWS Lambda o Google Cloud Functions._
