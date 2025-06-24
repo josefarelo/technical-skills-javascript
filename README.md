@@ -269,3 +269,7 @@ _Uso de microservicios para dividir una aplicación en servicios pequeños e ind
 - serverless-architecture
 
 _Implementación de funciones serverless usando JavaScript en plataformas como AWS Lambda o Google Cloud Functions._
+
+- injection-unit-investment.js
+
+_Aplicación del principio de inversión de dependencias para desacoplar módulos usando técnicas de inyección de dependencias._
